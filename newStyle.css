@@ -1,0 +1,31 @@
+body {
+    background-color: lavender;
+}
+fieldset {
+    background-color: lightgoldenrodyellow;
+}
+header {
+    width: 100%;
+    text-align: center;
+}
+footer {
+    position: absolute;
+    left: 100px;
+   bottom: 1%;
+}
+/*
+.container {
+    width: 500px;
+    clear: both;
+}
+
+.container input {
+    width: 100%;
+    clear: both;
+}
+
+*/
+form  { display: table;      }
+p     { display: table-row;  }
+label { display: table-cell; }
+input { display: table-cell; }
